@@ -239,10 +239,10 @@ The Vite development server will start at `http://localhost:5173`.
 
 ## 🌐 Live Demo & Deployment
 
-- **Live URL**: `https://b2b-expense-tracker-demo.placeholder.app` *(Deployable to Render / Vercel / Railway)*
+- [Live URL](https://b2b-expense-tracker.vercel.app/) 
 - **Demo Credentials**:
   - Email: `test@freelancer.com`
-  - Password: `Password123`
+  - Password: `password123`
 
 ---
 
